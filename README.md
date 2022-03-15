@@ -1,23 +1,26 @@
 # Dupe-SO2
 Скрипт для дюпа Серебра Standoff 2 [No-Ban]
 
+1.Для Termux [No Root]:
 
-apt-get update
+apt update
+apt upgrade
+pkg install python
+apt install git
+git clone https://github.com/Frucktus/Dupe
+cd Dupe
+python Dupe-NoPIP.py
 
-apt-get install python3.9
+2.Для Termux [Root]:
 
-apt-get install git
-
+apt update
+apt upgrade
+pkg install python
+apt install git
 pip install colorama
-
-git clone https://github.com/Frucktus/Dupe-SO2/
-
-cd Dupe-SO2
-
-sudo python3 Dupe-Silver.py
-
-
-
+git clone https://github.com/Frucktus/Dupe
+cd Dupe
+python Dupe-Silver.py
 
 
 
