@@ -3,8 +3,11 @@
 
 
 apt-get update
+
 apt-get install python3.9
+
 apt-get install git
+
 pip install colorama
 
 
