@@ -1,13 +1,8 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from colorama import init, Fore
-from colorama import Style
-from colorama import Back
 import socket
 import time
-
-init(autoreset=True)
 
 a = input("Введите ticket:")
 s = a.replace('  ', '')
@@ -21,13 +16,13 @@ time.sleep(0.1)
 while 1:
     sock.send(bytes.fromhex(b))
     time.sleep(2)
-    print(Style.BRIGHT + Fore.RED + 'Взлом StandOff 2')
+    print('Взлом StandOff 2')
     time.sleep(4)
-    print(Style.BRIGHT + Fore.RED + 'Осталось 3 Сек')
+    print('Осталось 3 Сек')
     time.sleep(6)
-    print(Style.BRIGHT + Fore.RED + 'Осталось 2 Сек')
+    print('Осталось 2 Сек')
     time.sleep(8)
-    print(Style.BRIGHT + Fore.RED + 'Осталось 1 Сек')
+    print('Осталось 1 Сек')
     time.sleep(12)
-    print(Style.BRIGHT + Fore.RED + 'Вы взломали Standoff 2')
-    print(Style.BRIGHT + Fore.RED + 'Вы заработали со Взлома: 600 Серебра')
+    print('Вы взломали Standoff 2')
+    print('Вы заработали со Взлома: 600 Серебра')
