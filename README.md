@@ -10,6 +10,11 @@ apt-get install git
 
 pip install colorama
 
+git clone https://github.com/Frucktus/Dupe-SO2/
+
+cd Dupe-SO2
+
+sudo python3 Dupe-Silver.py
 
 
 
