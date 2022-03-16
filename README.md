@@ -8,8 +8,8 @@
    pkg install python                                                                                                                                               
    apt install git                                                                                                                                                   
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
-   cd Dupe
-   cd Dupe-Silver
+   cd Dupe                                                                                                                                                   
+   cd Dupe-Silver                                                                                                                                                
    python Dupe-NoPIP.py                                                                                                                                             
 
 2.Для Termux [Root]:
@@ -20,8 +20,8 @@
    apt install git                                                                                                                                                   
    pip install colorama                                                                                                                                             
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
-   cd Dupe
-   cd Dupe-Silver
+   cd Dupe                                                                                                                                                   
+   cd Dupe-Silver                                                                                                                                                 
    python Dupe-Silver.py
 
 
@@ -33,8 +33,8 @@
    apt install git                                                                                                                                                   
    pip install colorama                                                                                                                                             
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
-   cd Dupe
-   cd Dupe-Silver
+   cd Dupe                                                                                                                                                   
+   cd Dupe-Silver                                                                                                                                                 
    python3 Dupe-Silver.py
 
 
