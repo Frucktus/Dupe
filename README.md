@@ -1,5 +1,5 @@
 # Dupe-SO2
-Скрипт для дюпа Серебра Standoff 2 [No-Ban]
+Скрипт для Дюпа Standoff 2 [No-Ban]
 
 1.Для Termux [No Root]:
 
