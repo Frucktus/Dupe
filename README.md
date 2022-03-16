@@ -5,8 +5,8 @@
 
    apt update                                                                                                                                                       
    apt upgrade                                                                                                                                                       
-   pkg install python                                                                                                                                               
-   apt install git                                                                                                                                                   
+   pkg install python -y                                                                                                                                              
+   apt install git -y                                                                                                                                                  
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
    cd Dupe                                                                                                                                                   
    cd Dupe-Silver                                                                                                                                                
@@ -16,8 +16,8 @@
 
    apt update                                                                                                                                                       
    apt upgrade                                                                                                                                                       
-   pkg install python                                                                                                                                               
-   apt install git                                                                                                                                                   
+   pkg install python -y                                                                                                                                              
+   apt install git -y                                                                                                                                                  
    pip install colorama                                                                                                                                             
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
    cd Dupe                                                                                                                                                   
@@ -29,8 +29,8 @@
 
    apt update                                                                                                                                                       
    apt upgrade                                                                                                                                                       
-   sudo apt-get install python3                                                                                                                                               
-   apt install git                                                                                                                                                   
+   sudo apt-get install python3 -y                                                                                                                                              
+   apt install git -y                                                                                                                                                  
    pip install colorama                                                                                                                                             
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
    cd Dupe                                                                                                                                                   
