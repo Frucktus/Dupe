@@ -20,7 +20,21 @@
    pip install colorama                                                                                                                                             
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
    cd Dupe
+   
    python Dupe-Silver.py
+
+
+2.Для Linux:
+
+   apt update                                                                                                                                                       
+   apt upgrade                                                                                                                                                       
+   sudo apt-get install python3                                                                                                                                               
+   apt install git                                                                                                                                                   
+   pip install colorama                                                                                                                                             
+   git clone https://github.com/Frucktus/Dupe                                                                                                                       
+   cd Dupe
+   
+   python3 Dupe-Silver.py
 
 
 
