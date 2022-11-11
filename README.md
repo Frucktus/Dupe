@@ -6,7 +6,7 @@
    apt update                                                                                                                                                       
    apt upgrade                                                                                                                                                       
    pkg install python -y                                                                                                                                              
-   apt install git -y                                                                                                                                                  
+   pkg install git -y                                                                                                                                                  
    git clone https://github.com/Frucktus/Dupe                                                                                                                       
    cd Dupe                                                                                                                                                   
    cd Dupe-Silver                                                                                                                                                
